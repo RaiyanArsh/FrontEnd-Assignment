@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#root {
+  margin: 0 auto;
+  padding: 0rem;
+
+  font-family: Helvetica, system-ui, Avenir, Inter, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  box-sizing: border-box;
+}
+
+.ad-content-input {
+  width: 100%; /* Adjust the width as per your preference */
+}
+
+.cta-input {
+  width: 100%; /* Adjust the width as per your preference */
+}
